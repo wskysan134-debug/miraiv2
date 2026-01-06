@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "ar",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -10,11 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "𝑷𝑨𝑵𝑰𝑺𝑺𝑨 『🦋❁ﾟ』𝑳𝑨𝑷 ⇊❖츄『💎",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "61582847128354",
+        "61582847128354"
     ],
     "DATABASE": {
         "sqlite": {
